@@ -8,5 +8,12 @@ aunque también se empleó [Geany](https://www.geany.org/) configurada para corr
 Arduino CLI.
 
 ## PLC
-Aún no se suben estos archivos por lo que no recuerdo
+Se dos debido a los distintos programas que se querían cubrir, estos fueron
+- LOGO!
+- SIEMENS S7-1500
+
+## Extras
+Hay un directorio donde agrego todo archivo relacionado pero que no era necesario para las
+evaluaciones del curso, por ejemplo unas pruebas de arranque secuencial para motores escrito en
+lenguaje IL (Instruction List, similar a lenguajes ensamblador).
 
